@@ -1,0 +1,8 @@
+youtube-dl.exe -o '[%(upload_date)s]%(title)s.%(ext)s' --cookies=cookiejar.txt  --limit-rate 2M https://www.youtube.com/watch\?v\=影片ID
+
+
+顯示可下載的字幕：
+youtube-dl  --list-subs https://www.youtube.com/watch\?v\=y5wkebBCwAE
+
+下載影片(內嵌字幕)：
+youtube-dl --sub-lang zh-TW,ja --write-sub  --embed-subs https://www.youtube.com/watch?v=y5wkebBCwAE

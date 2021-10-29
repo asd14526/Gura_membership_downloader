@@ -1,0 +1,1 @@
+ & '.\youtube-dl(下載影片用).exe' -o '[%(upload_date)s]%(title)s.%(ext)s' --cookies=cookiejar.txt -f best https://www.youtube.com/watch?v=ht4_f9jV3mA
