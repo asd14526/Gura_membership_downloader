@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/asd14526/Gura_membership_downloader/releases/)
 
- Auto download Gawr Gura's membership only video.
+ Auto download Gawr Gura's membership-only video.
 
 ### Feature
 
@@ -18,7 +18,7 @@
 ### Quick Installation
 
 First of all, download it.
-Then, modify [oneclick_gura_YTDL.bat](https://github.com/asd14526/Gura_membership_downloader/blob/main/oneclick_gura_YTDL.bat) or do it in CMD:
+Then, click [oneclick_gura_YTDL.bat](https://github.com/asd14526/Gura_membership_downloader/blob/main/oneclick_gura_YTDL.bat) to run driectly or type it in CMD:
 
 ```sh
 $ cd YOUR_LOCATION
